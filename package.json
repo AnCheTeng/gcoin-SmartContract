@@ -1,0 +1,30 @@
+{
+  "name": "gcoin-smart-contract",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~4.13.4",
+    "body-parser": "~1.15.0",
+    "cron": "*",
+    "request": "*"
+  },
+  "description": "Gcoin-Smart-Contract",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnCheTeng/medical-smart-contract"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "ethereum",
+    "gcoin",
+    "blockchain"
+  ],
+  "license": "MIT"
+}
